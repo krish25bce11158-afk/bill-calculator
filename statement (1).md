@@ -10,7 +10,7 @@ To build a small restaurant billing system that:
 - Adds chosen items to a bill
 - Prints the total amount at the end
 
-## Technologies Used
+## Technologies Used 
 - Python 3
 - Tuples (for menu items)
 - Lists (for storing orders)
