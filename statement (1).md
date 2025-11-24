@@ -1,12 +1,12 @@
 # Project Statement: Restaurant Bill Calculator
 
 ## Introduction
-This project is a simple Python program that displays a menu, takes user orders, and calculates the total bill. It uses basic data structures like lists and tuples to store menu items and user selections.
+This project is a program that displays a menu, takes coustomers orders, and calculates the total bill. It uses basic data structures like lists and tuples
 
 ## Objective
 To build a small restaurant billing system that:
 - Shows a menu
-- Lets users pick items by number
+- Lets coustomer pick items by number
 - Adds chosen items to a bill
 - Prints the total amount at the end
 
