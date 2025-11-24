@@ -4,13 +4,14 @@ A simple Python-based Restaurant Bill Calculator using lists and tuples. Coustom
 
 **1. Overview of the Project**
 
-The Restaurant Bill Calculator is a program that allows users to select food items from a predefined menu and calculates the final bill with taxes and other charges included.
+The Restaurant Bill Calculator is a program that allows users to select food items from a predefined menu and calculates the final bill with taxes and other charges included.<img width="875" height="958" alt="Screenshot 2025-11-24 224854" src="https://github.com/user-attachments/assets/e0f02d4b-9aed-4341-be3f-b5e10bb17973" />
+
 The menu is implemented using tuples (to keep item names & prices fixed), while the customer’s selections are stored in a list.
 This project demonstrates practical usage of Python data structures, loops, input validation, and formatted console output.
 
 **2. Features**
 Menu stored as a list of tuples
-User selects items by menu number
+User selects items by m
 Clean and formatted receipt output
 Automatic calculation of total bill
 Easy to extend or modify in future
@@ -28,4 +29,6 @@ Console-based I/O (no external packages)
 
 
 <img width="1199" height="931" alt="Screenshot 2025-11-24 192756" src="https://github.com/user-attachments/assets/8f9d136a-d34e-4156-b745-561badab6a44" />
+
+
 
