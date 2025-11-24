@@ -1,11 +1,10 @@
 # bill-calculator
-A simple Python-based Restaurant Bill Calculator using lists and tuples. Users can select menu items by number, and the program generates a clean receipt with the total bill. Ideal for beginners learning data structures, loops, and billing logic.
-)
+A simple Python-based Restaurant Bill Calculator using lists and tuples. Users can select menu items by number, and the program generates a clean receipt with the total bill.
 
 
 **1. Overview of the Project**
 
-The Restaurant Bill Calculator is a beginner-friendly Python program that allows users to select food items from a predefined menu, stores their choices, and calculates the final bill.
+The Restaurant Bill Calculator is a beginner-friendly Python program that allows users to select food items from a predefined menu and calculates the final bill.
 The menu is implemented using tuples (to keep item names & prices fixed), while the customer’s selections are stored in a list.
 This project demonstrates practical usage of Python data structures, loops, input validation, and formatted console output.
 
@@ -23,7 +22,6 @@ Automatic calculation of total bill
 
 Easy to extend or modify
 
-Works without external libraries
 
 **3. Technologies / Tools Used**
 
