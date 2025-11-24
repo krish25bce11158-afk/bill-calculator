@@ -32,6 +32,13 @@ VITYARTHI project.py : The core Python code with all class definitions  and exec
 README.md: This file, serving as the main project documentation, instructions, and feature guide.
 
 statement.md: Detailed design document outlining the OOP architecture and key structural decisions.
+**5. Steps to install & run the project**
+
+a. Install Python Make sure Python 3.x is installed on your system: https://www.python.org/downloads/ 
+b. Create a Python File Create a file named: hospital_management.py 
+c. Paste Your Code Copy your Hospital Management System code into this file. 
+d. Run the Program Open terminal / command prompt and run: python hospital_management.py OR if using Python 3 specifically: python3 hospital_management.py 
+e. Follow the On-Screen Instructions Enter order details Select ward type View the automatically generated bill
 
 <img width="1367" height="934" alt="Screenshot 2025-11-24 192718" src="https://github.com/user-attachments/assets/ddee739b-acb6-4bcb-85fa-07f0f91d4a6f" />
 
