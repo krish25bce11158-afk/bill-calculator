@@ -1,13 +1,4 @@
-"""
-Restaurant Bill Calculator
-Author: Your Name
 
-A simple console-based program that:
-- Displays a menu of items with prices
-- Lets the user select items by number
-- Stores the order using a list of tuples
-- Calculates and prints the final bill
-"""
 
 # 1. DATA STRUCTURE: List of Tuples
 # We use tuples () because the item name and price should not change.
@@ -75,3 +66,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
