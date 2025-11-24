@@ -25,6 +25,14 @@ Tuple → for menu items
 List → for storing ordered items
 Console-based I/O (no external packages)
 
+**4. Repository Contents**
+
+VITYARTHI project.py : The core Python code with all class definitions  and execution logic.
+
+README.md: This file, serving as the main project documentation, instructions, and feature guide.
+
+statement.md: Detailed design document outlining the OOP architecture and key structural decisions.
+
 <img width="1367" height="934" alt="Screenshot 2025-11-24 192718" src="https://github.com/user-attachments/assets/ddee739b-acb6-4bcb-85fa-07f0f91d4a6f" />
 
 
