@@ -4,7 +4,7 @@
 This project is a program that displays a menu, takes coustomers orders, and calculates the total bill. It uses basic data structures like lists and tuples
 
 ## Objective
-To build a small restaurant billing system that:
+To build a small restaurant billing system that:  
 - Shows a menu
 - Lets coustomer pick items by number
 - Adds chosen items to a bill
