@@ -37,5 +37,8 @@ List → for storing ordered items
 
 Console-based I/O (no external packages)
 
+<img width="1367" height="934" alt="Screenshot 2025-11-24 192718" src="https://github.com/user-attachments/assets/ddee739b-acb6-4bcb-85fa-07f0f91d4a6f" />
+
+
 <img width="1199" height="931" alt="Screenshot 2025-11-24 192756" src="https://github.com/user-attachments/assets/8f9d136a-d34e-4156-b745-561badab6a44" />
 
